@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(211, 211, 255);
+    background-color: rgb(232 232 255);
 }
 
 .container {
@@ -44,7 +44,8 @@ body {
 
 .textContainer p{
     color: rgb(73, 73, 109);
-    font-size: 0.8rem;
-    padding: 0.9rem 3rem; 
+    font-size: 0.95rem;
+    font-weight: lighter;
+    padding: 1rem 2rem; 
     width: 100%;
 }
