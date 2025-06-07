@@ -13,12 +13,12 @@ body {
     background-color: white; 
     width: 20rem; 
     height: 32rem;
-    margin-left: auto;
-    margin-right: auto; 
     margin-top: 10rem;
     margin-bottom: 10rem;
+    margin-inline:auto;
     text-align: center;
-    border-radius: 1rem; 
+    border-radius: 1rem;
+     
 }
 
 .qrContainer {
